@@ -21,5 +21,4 @@ I developed an **Inventory Management System** using Django to streamline the pr
 - **Backend:** Django
 - **Frontend:** Bootstrap5
 - **Programming Language:** Python
-- **Database:** [Specify the database used, e.g., SQLite, PostgreSQL]
 
