@@ -14,8 +14,6 @@ I developed an **Inventory Management System** using Django to streamline the pr
 
 - **Responsive Design:** Built with **Bootstrap5**, offering a clean and intuitive interface that works seamlessly across both desktop and mobile devices.
 
-- **Ideal for SMEs:** The system’s intuitive design and comprehensive features make it an excellent choice for small to medium-sized enterprises looking to streamline their inventory management processes.
-
 ## Technologies Used
 
 - **Backend:** Django
